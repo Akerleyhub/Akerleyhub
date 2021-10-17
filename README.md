@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devin. I'm still starting my tech journey. College and bootcamp grad. Web developer focus.
+# 👋Hi, my name is Devin. I'm still starting my tech journey. College and coding bootcamp grad. Web developer focus.
 - 👨🏽‍💻 Full-time software developer
 - ✨ JavaScript/Python
 - 👀 I’m interested in React, Express, Django, Postgresql
