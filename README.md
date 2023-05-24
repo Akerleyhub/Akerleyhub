@@ -4,8 +4,7 @@
 - 👀 I’m interested in React, Express, Django, Postgresql
 - 🏋️ Training in the leetcode gym
 - 🧠 Learning === Success
-- 🌱 I’m currently or will be learning React Native, Web Scrapping using python, Deployment
-- 💞️ I’m looking to collaborate on deploying full stack apps
+- 🌱 Trying various new technologies
 - 📫 How to reach me ... if you're seeing this you likely already know the answer.
 
 <!---
